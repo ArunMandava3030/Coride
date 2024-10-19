@@ -190,7 +190,6 @@ END
 git branch -M main  # If 'main' is the default branch
  git push -u origin main
 
-![Screenshot 2024-10-20 003436](https://github.com/user-attachments/assets/4cd97159-8594-4018-942a-ede176bfbe71)
 
 
 
