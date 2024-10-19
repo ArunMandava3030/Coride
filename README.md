@@ -1,4 +1,4 @@
-# Coride - Flask REST API with MongoDB Integration
+![Screenshot 2024-10-20 003436](https://github.com/user-attachments/assets/7dbffb5c-99e0-41b4-a5f6-27a5cfcbab7f)# Coride - Flask REST API with MongoDB Integration
 
 ## Overview
 
@@ -186,6 +186,10 @@ Copy code
 END
 git branch -M main  # If 'main' is the default branch
  git push -u origin main
+
+![Screenshot 2024-10-20 003436](https://github.com/user-attachments/assets/4cd97159-8594-4018-942a-ede176bfbe71)
+![Screenshot 2024-10-20 003502](https://github.com/user-attachments/assets/e54a3313-3117-4819-abcd-8fc74d8dd72c)
+
 
 
 
